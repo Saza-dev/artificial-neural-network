@@ -1,3 +1,7 @@
 # Simple Artificial Neural Network 🧠
 
-This project contains a basic implementation of an Artificial Neural Network (ANN) using Python. It is intended for learning and educational purposes, demonstrating the fundamentals of how neural networks function.
+This project builds an Artificial Neural Network (ANN) using TensorFlow/Keras to predict **customer churn** (whether a customer will leave a bank) based on structured tabular data such as credit score, age, balance, and account activity.
+
+## 📌 Objective
+
+To classify whether a customer is likely to exit the bank (churn) based on personal and account information. This is a classic supervised binary classification problem.
